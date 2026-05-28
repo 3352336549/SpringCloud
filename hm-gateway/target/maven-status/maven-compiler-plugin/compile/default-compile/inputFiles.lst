@@ -1,0 +1,7 @@
+D:\IDEAworkspace\hmall\hm-gateway\src\main\java\com\hmall\gateway\filters\AutoGlobalFilter.java
+D:\IDEAworkspace\hmall\hm-gateway\src\main\java\com\hmall\gateway\GateApplication.java
+D:\IDEAworkspace\hmall\hm-gateway\src\main\java\com\hmall\gateway\config\AuthProperties.java
+D:\IDEAworkspace\hmall\hm-gateway\src\main\java\com\hmall\gateway\config\JwtProperties.java
+D:\IDEAworkspace\hmall\hm-gateway\src\main\java\com\hmall\gateway\utils\JwtTool.java
+D:\IDEAworkspace\hmall\hm-gateway\src\main\java\com\hmall\gateway\config\SecurityConfig.java
+D:\IDEAworkspace\hmall\hm-gateway\src\main\java\com\hmall\gateway\filters\MyGlobalFilter.java

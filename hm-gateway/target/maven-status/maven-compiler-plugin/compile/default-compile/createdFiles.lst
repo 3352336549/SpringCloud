@@ -1,0 +1,6 @@
+com\hmall\gateway\config\AuthProperties.class
+com\hmall\gateway\config\SecurityConfig.class
+com\hmall\gateway\utils\JwtTool.class
+com\hmall\gateway\config\JwtProperties.class
+com\hmall\gateway\filters\AutoGlobalFilter.class
+com\hmall\gateway\filters\MyGlobalFilter.class

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/cart-service/src/main/java/com/hmall/cart/mapper/CartMapper.java" value="4d10ead1-fba8-47f2-b37d-d1090d0f9e65" />
+    <file url="file://$PROJECT_DIR$/item-service/src/main/java/com/hmall/item/mapper/ItemMapper.java" value="4d10ead1-fba8-47f2-b37d-d1090d0f9e65" />
+  </component>
+</project>
