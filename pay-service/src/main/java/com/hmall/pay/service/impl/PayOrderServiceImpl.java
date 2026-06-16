@@ -82,7 +82,7 @@ public class PayOrderServiceImpl extends ServiceImpl<PayOrderMapper, PayOrder> i
             rabbitTemplate.convertAndSend("pay.direct", "pay.success", po.getBizOrderNo());
         } catch (Exception e) {
             log.error("发送支付成功消息失败,订单id：{}", po.getBizOrderNo(),e);
-        }
+        } 
     }
 
     public boolean markPayOrderSuccess(Long id, LocalDateTime successTime) {
